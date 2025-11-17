@@ -1,0 +1,3 @@
+com\example\greeting\GreetingAutoConfiguration.class
+com\example\greeting\GreetingService.class
+com\example\greeting\GreetingProperties.class
